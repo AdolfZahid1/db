@@ -1,7 +1,7 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import schedule,time
 
-webhook = DiscordWebhook(url='https://discord.com/api/webhooks/818409835590058035/D9hfMGeb7-YOGgD5av4qwWHtTGY66OdFpaNfgGmolnPzU5CdvOwl_deuS6VB2vJqhzwG')
+webhook = DiscordWebhook(url='')
 embed = DiscordEmbed(title='', description='''
 Для того чтобы получить доступ к другим каналам и стать частью юнита, вам для начала нужно ознакомиться с правилами (<#620337566671044688>)и сменить ник: ["CR-"Номер" "Позывной" [88th]"], после запросить роль <@&608564553835479061>
 
