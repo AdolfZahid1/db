@@ -37,7 +37,7 @@ async def coin(ctx):
     else:
         await ctx.send("`Орёл!`")
 
-bot.run('ODc5MDU5MTE2ODU1NzkxNjI3.YSKNmQ.3uVrIOXwresjs-vkEe52Adwwuos',reconnect=True)
+bot.run('',reconnect=True)
 """
 @bot.command(name='rob',brief='Counts robs(dont use)')
 async def rob(ctx,*,arg):
